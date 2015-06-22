@@ -9,6 +9,6 @@ We’ve chosen some of the most common components we use and put them together i
 
 These cards were inspired by the excellent HTML Sushi Cards originally developed by CoderDojo Bray (and available on the CoderDojo Kata site).  Like the HTML Sushi we’d suggest these A4 sheets are printed out double-sided (or back-to-back) and then laminated for easy re-use!  There are also a series of A5 cards which contain the individual components on these sheets.
 
-For each component we’ve also created an example Scratch project file in our studio which you can find on the scratch.mit.edu website – here you can see the individual elements in action!
+For each component we’ve also created an example Scratch project file which you can find in the examples folder here or you can also get online in our studio which you can find on the scratch.mit.edu website (https://scratch.mit.edu/studios/1170890/) – here you can see the individual elements in action!
 
 In future versions we’re going to add more elements and also provide some example “recipe” projects which bring these elements together to create full blown Scratch games!  We really hope you find these useful and enjoy creating your own projects!
